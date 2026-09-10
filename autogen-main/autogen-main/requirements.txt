@@ -1,0 +1,15 @@
+# AutoGen Core Framework & AgentChat
+autogen-agentchat>=0.7.0,<0.8.0
+
+# AutoGen Extensions (OpenAI client & Local Code Executor)
+autogen-ext[openai]>=0.7.0,<0.8.0
+
+# Environment Management (Provides the 'dotenv' module)
+python-dotenv>=1.0.0
+
+# Grounded Web Search Tool (DuckDuckGo Python client)
+ddgs>=9.0.0
+
+# Web Interface
+streamlit>=1.35.0
+
